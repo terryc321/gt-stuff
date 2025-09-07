@@ -100,14 +100,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-09-06T13:46:55.962567+01:00"
+						"dateAndTimeString" : "2025-08-29T17:38:11.796258+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "5fRbX+X5DQCPRptDB0DTaQ=="
 				},
-				"code" : "example size"
+				"code" : "|a|\ra := 343.\ra factorial."
 			},
 			{
 				"__type" : "pharoSnippet",

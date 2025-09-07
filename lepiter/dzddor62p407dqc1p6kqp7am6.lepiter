@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-09-05T23:57:17.748459+01:00"
+						"dateAndTimeString" : "2025-09-07T22:31:37.376001+01:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "this is still a work in progress"
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -74,6 +74,40 @@
 					"uidString" : "sG+YOYL6DQCK/xyzCDA8NQ=="
 				},
 				"code" : "GStuffMultiCardGetStartedSection aboutThisBookCard"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-09-06T13:36:54.260841+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-09-06T13:36:54.260841+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "8qxA8oL6DQCx+csrCA3EDg=="
+				},
+				"code" : ""
 			}
 		]
 	},

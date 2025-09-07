@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-09-05T23:57:17.748459+01:00"
+						"dateAndTimeString" : "2025-09-07T22:33:04.062238+01:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-09-05T23:57:17.748459+01:00"
+						"dateAndTimeString" : "2025-09-07T22:36:22.172513+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "Grkaf3f6DQC/8Oz0C5gu7A=="
+					"uidString" : "M1eQjZ76DQCrVtbYAEtdwQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "add new repository problem happens when go open folder icon get  an error from StFileSystemModel >> currentDirectory"
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -55,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-09-06T12:45:16.224955+01:00"
+						"dateAndTimeString" : "2025-09-07T22:36:40.964131+01:00"
 					}
 				},
 				"editEmail" : {
@@ -66,17 +66,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-09-06T13:04:39.372403+01:00"
+						"dateAndTimeString" : "2025-09-07T22:37:12.689626+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "sG+YOYL6DQCK/xyzCDA8NQ=="
+					"uidString" : "8vB9mp76DQCtEEPsAEtdwQ=="
 				},
-				"code" : "GStuffMultiCardGetStartedSection aboutThisBookCard"
+				"code" : "currentDirectory: aFileReference\r\" added an inspection point - lets see if it works - maybe a breakpoint be better\"\raFileReference inspect.\r\t(aFileReference exists and: [ aFileReference isDirectory ]) \r\t\tifFalse: [ DirectoryDoesNotExist signalWith: aFileReference ].\r\tcurrentDirectory := aFileReference.\r\tLastVisitedDirectory := currentDirectory"
 			},
 			{
-				"__type" : "pharoSnippet",
+				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
 					"items" : [ ]
@@ -89,7 +89,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-09-06T13:36:54.260841+01:00"
+						"dateAndTimeString" : "2025-09-07T22:39:50.664956+01:00"
 					}
 				},
 				"editEmail" : {
@@ -100,14 +100,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-09-06T13:36:54.260841+01:00"
+						"dateAndTimeString" : "2025-09-07T22:42:30.284413+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "8qxA8oL6DQCx+csrCA3EDg=="
+					"uidString" : "Jo7MpZ76DQCJG3qrBsftFA=="
 				},
-				"code" : ""
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "with pharo the user interface is not subject to same smalltalk squeak like features , editor seems different , no mouse interaction , would thought be easier to reuse rather than modal dialog boxes\n\nopen a fictitious directory\n\n/home/terry/Pharo/images/Pharo 14.0 - 64bit (development version, latest)/pharo-local/iceberg/missing\n\npharo will show a debugger window \nperhaps we could backtrack up a directory until - or add directory iceberg\n\nalso thing there are too many options to remove or delete files on system which could be damaging especially on a rough draft system \n\n"
 			}
 		]
 	},
@@ -119,7 +122,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-09-06T12:45:07.252609+01:00"
+			"dateAndTimeString" : "2025-09-07T22:33:47.956903+01:00"
 		}
 	},
 	"editEmail" : {
@@ -130,15 +133,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-09-06T12:45:07.252609+01:00"
+			"dateAndTimeString" : "2025-09-07T22:33:47.956903+01:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "How to setup a home section - a card when load git repo into gt "
+		"title" : "Pharo 14 add a new repository bug "
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "7e521a7f-77fa-0d00-bfef-0ccb0b982eec"
+		"uuid" : "c9fa8f8d-9efa-0d00-ab55-561a004b5dc1"
 	}
 }
