@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-09-14T15:14:36.260831+01:00"
+						"dateAndTimeString" : "2025-09-14T15:10:46.353473+01:00"
 					}
 				},
 				"editEmail" : {
@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-09-14T15:14:43.822168+01:00"
+						"dateAndTimeString" : "2025-09-14T15:10:46.353473+01:00"
 					}
 				},
 				"uid" : {
@@ -39,41 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "you can insert breakpoints using self halt"
-			},
-			{
-				"__type" : "pharoSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-09-14T15:14:48.102749+01:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-09-14T15:14:52.008556+01:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "+msXPyX7DQCvp42bB7USUQ=="
-				},
-				"code" : "self halt."
+				"string" : ""
 			},
 			{
 				"__type" : "textSnippet",
