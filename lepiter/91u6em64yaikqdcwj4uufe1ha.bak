@@ -29,14 +29,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-09-16T22:27:17.959723+01:00"
+						"dateAndTimeString" : "2025-09-16T22:27:56.632555+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "cpyBhVP7DQCeTOx8ASLimA=="
 				},
-				"code" : ""
+				"code" : "Metacello new\n          baseline: 'BlocMemoryTutorial';\n          repository: 'github://pharo-graphics/Bloc-Memory-Tutorial/src';\n          load"
 			},
 			{
 				"__type" : "textSnippet",
