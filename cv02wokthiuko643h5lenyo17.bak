@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-11-24T14:54:32.968493+00:00"
+						"dateAndTimeString" : "2025-11-24T14:56:11.440847+00:00"
 					}
 				},
 				"editEmail" : {
@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-11-24T14:54:39.813402+00:00"
+						"dateAndTimeString" : "2025-11-24T14:56:21.586026+00:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,41 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "gt stuff page 1 "
+				"string" : "How do we represent a tree view in GT"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-11-24T14:57:03.776305+00:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-11-24T14:57:03.776305+00:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "0bTUi0/1RV6Xzn23BwfaOA=="
+				},
+				"code" : ""
 			}
 		]
 	},
@@ -62,12 +96,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-11-24T14:54:32.823811+00:00"
+			"dateAndTimeString" : "2025-11-24T14:56:07.631046+00:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Page 1"
+		"title" : "Can we get a tree view ?"
 	},
 	"uid" : {
 		"__type" : "uuid",
